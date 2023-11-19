@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Home.css */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 10px;
+}
+
+.table-container {
+  margin-top: 20px;
+}
